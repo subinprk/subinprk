@@ -1,7 +1,7 @@
 # subinprk
 Hello, I'm Subin!
 
-Entered 42Berlin in 2023 May
+Enrolled 42Berlin in 2023 May
 
 Also studying Electronic Engineering in Inha University, Incheon, South Korea from 2021
 
