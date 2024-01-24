@@ -3,22 +3,18 @@
 <style>
     /* Define different font sizes for different elements */
     h1 {
-        font-size: 36px; /* Font size in pixels */
+        font-size: 36px;
     }
-
     h2 {
         font-size: 24px;
     }
-    
     p {
        font-size: 16px;
     }
-
         /* Using em units for relative sizing */
     .small-text {
         font-size: 0.8em; /* 80% of the parent element's font size */
     }
-
         /* Using percentage for relative sizing */
     .large-text {
         font-size: 150%; /* 150% of the parent element's font size */
