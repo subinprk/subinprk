@@ -1,13 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Log of 24th Jan</title>
-</head>
 <body>
     <br>
-    <h1>things that I learned today</h1>
+    <h2>things that I learned today</h2>
     <br>
     <p>  Thanks to Chat GPT, within only 10 minutes, I can use basic HTML</p>
     <p>  I still have to fix some pipe/redirection file discriptor control in Minishell</p>
