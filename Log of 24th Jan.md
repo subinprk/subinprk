@@ -28,7 +28,7 @@
 <body>
     <h1>Log of 24th Jan</h1> 
     <br>
-    <h2>things that I learned today</h2>
+    <p>things that I learned today</h2>
     <br>
     <h2>  Thanks to Chat GPT, within only 10 minutes, I can use basic HTML</h2>
     <h2>  I still have to fix some pipe/redirection file discriptor control in Minishell</h2>
