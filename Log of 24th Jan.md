@@ -1,34 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-<style>
-    /* Define different font sizes for different elements */
-    h1 {
-        font-size: 36px;
-    }
-    h2 {
-        font-size: 24px;
-    }
-    p {
-       font-size: 16px;
-    }
-        /* Using em units for relative sizing */
-    .small-text {
-        font-size: 0.8em; /* 80% of the parent element's font size */
-    }
-        /* Using percentage for relative sizing */
-    .large-text {
-        font-size: 150%; /* 150% of the parent element's font size */
-    }
-</style>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Log of 24th Jan</title>
 </head>
 <body>
-    <h1>Log of 24th Jan</h1> 
     <br>
-    <p>things that I learned today</p>
+    <h1>things that I learned today</h1>
     <br>
     <p>  Thanks to Chat GPT, within only 10 minutes, I can use basic HTML</p>
     <p>  I still have to fix some pipe/redirection file discriptor control in Minishell</p>
