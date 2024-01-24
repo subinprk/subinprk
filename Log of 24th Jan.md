@@ -7,7 +7,6 @@
     <p>  Thanks to Chat GPT, within only 10 minutes, I can use basic HTML</p>
     <p>  I still have to fix some pipe/redirection file discriptor control in Minishell</p>
     <p>  So going to design that part of Minishell again</p>
-    <p>  Got a 2 suggestion for job via Linkedin, suddenly why...?</p>
     <br>
     <p>Today was totally tough day.</p>
     <p>I've heard that my Grandma has passed away yesterday</p>
