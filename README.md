@@ -15,5 +15,5 @@ Also studying Electronic Engineering in Inha University, Incheon, South Korea fr
 5. FDF:            Representing a landscape as a 3D object in which all surfaces are outlined in lines
 6. push_swap:      Sort data on a stack, with a limited set of instructions
 7. pipex:          Understanding multi pipe, fork Unix system calls
-8. philosopher:    Learning how threads work (current project)
-9. minishell:      Creating simple shell, learning processes, file descriptors deeply (current project)
+8. philosopher:    Learning how threads work
+9. minishell:      Creating simple shell, learning processes, file descriptors deeply
