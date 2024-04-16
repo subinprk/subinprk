@@ -17,3 +17,5 @@ Also studying Electronic Engineering in Inha University, Incheon, South Korea fr
 7. pipex:          Understanding multi pipe, fork Unix system calls
 8. philosopher:    Learning how threads work
 9. minishell:      Creating simple shell, learning processes, file descriptors deeply
+10. Cub3d:         Graphical project, making simple game, calculating given data and printing scrin as 3d
+11. CPP:           Learning C++
