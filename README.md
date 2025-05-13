@@ -1,21 +1,90 @@
-# subinprk
-Hello, I'm Subin!
+# Subin Park's GitHub
 
-Enrolled 42Berlin in 2023 May
+Welcome!  
+I'm Subin Park, an engineering student with a strong background in **system-level programming** and a growing interest in **low-level machine learning systems**.  
+My work mainly focuses on **memory management**, **parallel processing**, and **efficient low-level computation**, often implementing projects **without relying on external libraries** to build a deeper understanding of system behavior.
 
-Also studying Electronic Engineering in Inha University, Incheon, South Korea from 2021
+---
 
+## Key Projects
 
-## My Journey of 42 curriculum.
+### System Programming (C language)
 
-1. libft:          Your very first own library
-2. get_next_line:  Reading a line from a fd is way too tedious
-3. ft_printf:      Making own printf function
-4. Born2beroot:    Introduction to the wonderful world of virtualization
-5. FDF:            Representing a landscape as a 3D object in which all surfaces are outlined in lines
-6. push_swap:      Sort data on a stack, with a limited set of instructions
-7. pipex:          Understanding multi pipe, fork Unix system calls
-8. philosopher:    Learning how threads work
-9. minishell:      Creating simple shell, learning processes, file descriptors deeply
-10. Cub3d:         Graphical project, making simple game, calculating given data and printing scrin as 3d
-11. CPP:           Learning C++
+- **libft**  
+  Re-implementation of standard C library functions from scratch.  
+  Focus: Robust string manipulation, memory operations, no external dependencies.
+
+- **get_next_line**  
+  Implementation of buffered line-by-line file reading.  
+  Focus: Dynamic memory management, buffer reallocation, multi-file descriptor handling.
+
+- **ft_printf**  
+  Custom `printf` function with full format specifier support.  
+  Focus: Manual parsing, variadic argument handling using `va_list`.
+
+- **push_swap**  
+  Sorting algorithms using only a limited set of stack operations.  
+  Focus: Algorithmic optimization for minimal operation count, efficient data structures.
+
+- **pipex**  
+  Recreation of Unix pipe functionality using process forking and file descriptor manipulation.  
+  Focus: Process control (`fork`, `execve`), pipe management, I/O redirection.
+
+- **minishell**  
+  A minimal Unix shell built in C.  
+  Focus: Lexer/parser construction, abstract syntax tree (AST) execution, built-in command support, signal handling.
+
+- **philosopher**  
+  Classic Dining Philosophers problem solved with multithreading (pthreads).  
+  Focus: Mutex usage, deadlock prevention, precise thread synchronization.
+
+- **fdf**  
+  3D wireframe visualization of terrain data using 2D projection techniques.  
+  Focus: 3D to 2D transformation, matrix operations, Bresenham’s line algorithm.
+
+---
+
+### Network and Systems Programming (C++)
+
+- **Webserv**  
+  Implementation of a lightweight HTTP/1.1 web server in C++.  
+  Focus: Low-level socket programming, select-based I/O multiplexing, manual HTTP request parsing and response generation without using high-level frameworks.  
+  Achieved concurrent client handling and static content serving with minimal external dependencies.
+
+---
+
+### Robotics and Embedded Systems (C++/ROS)
+
+- **LiDAR Obstacle Detection (MORAI Simulator + ROS)**  
+  Real-time LiDAR point cloud processing and object clustering.  
+  Focus: Sensor data subscription, RANSAC plane fitting, Euclidean clustering, ROS modular design.
+
+---
+
+### Machine Learning (Python)
+
+- **Deep Learning Coursework (PyTorch)**  
+  Neural network architecture design and training for image classification.  
+  Focus: regularization techniques, performance evaluation.
+
+- **Dive into Deep Learning (D2L.ai) Study**  
+  Hands-on deep learning experiments using PyTorch and theoretical study.  
+  Focus: Understanding from low-level tensor operations to network optimization.
+
+---
+
+## Skills and Interests
+
+- **Languages:** C, C++, Python
+- **Key Areas:** System programming, memory management, network programming, parallel/concurrent programming, low-level ML systems
+- **Mindset:**  
+  - Build from first principles.  
+  - Understand system internals.  
+  - Optimize for efficiency and clarity.
+
+I am passionate about bridging the gap between low-level system understanding and machine learning execution efficiency.  
+Currently, I'm exploring compiler technologies (TVM, MLIR) and hardware-aware ML optimization as future research directions.
+
+---
+
+Thanks for visiting!
