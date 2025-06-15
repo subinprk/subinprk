@@ -8,6 +8,36 @@ My work mainly focuses on **memory management**, **parallel processing**, and **
 
 ## Key Projects
 
+### Robotics and Embedded Systems (C++/ROS)
+
+- **LiDAR Obstacle Detection (MORAI Simulator + ROS)**  
+  Real-time LiDAR point cloud processing and object clustering.  
+  Focus: Sensor data subscription, RANSAC plane fitting, Euclidean clustering, ROS modular design.
+
+---
+
+### Network and Systems Programming (C++)
+
+- **Webserv**  
+  Implementation of a lightweight HTTP/1.1 web server in C++.  
+  Focus: Low-level socket programming, select-based I/O multiplexing, manual HTTP request parsing and response generation without using high-level frameworks.  
+  Achieved concurrent client handling and static content serving with minimal external dependencies.
+
+---
+
+### Machine Learning (Python)
+
+- **Deep Learning Coursework (PyTorch)**  
+  Neural network architecture design and training for image classification.  
+  Focus: regularization techniques, performance evaluation.
+
+- **Dive into Deep Learning (D2L.ai) Study**  
+  Hands-on deep learning experiments using PyTorch and theoretical study.  
+  Focus: Understanding from low-level tensor operations to network optimization.
+
+---
+
+
 ### System Programming (C language)
 
 - **libft**  
@@ -44,34 +74,6 @@ My work mainly focuses on **memory management**, **parallel processing**, and **
 
 ---
 
-### Network and Systems Programming (C++)
-
-- **Webserv**  
-  Implementation of a lightweight HTTP/1.1 web server in C++.  
-  Focus: Low-level socket programming, select-based I/O multiplexing, manual HTTP request parsing and response generation without using high-level frameworks.  
-  Achieved concurrent client handling and static content serving with minimal external dependencies.
-
----
-
-### Robotics and Embedded Systems (C++/ROS)
-
-- **LiDAR Obstacle Detection (MORAI Simulator + ROS)**  
-  Real-time LiDAR point cloud processing and object clustering.  
-  Focus: Sensor data subscription, RANSAC plane fitting, Euclidean clustering, ROS modular design.
-
----
-
-### Machine Learning (Python)
-
-- **Deep Learning Coursework (PyTorch)**  
-  Neural network architecture design and training for image classification.  
-  Focus: regularization techniques, performance evaluation.
-
-- **Dive into Deep Learning (D2L.ai) Study**  
-  Hands-on deep learning experiments using PyTorch and theoretical study.  
-  Focus: Understanding from low-level tensor operations to network optimization.
-
----
 
 ## Skills and Interests
 
