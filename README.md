@@ -15,16 +15,6 @@ My work mainly focuses on **memory management**, **parallel processing**, and **
   Focus: Sensor data subscription, RANSAC plane fitting, Euclidean clustering, ROS modular design.
 
 ---
-
-### Network and Systems Programming (C++)
-
-- **Webserv**  
-  Implementation of a lightweight HTTP/1.1 web server in C++.  
-  Focus: Low-level socket programming, select-based I/O multiplexing, manual HTTP request parsing and response generation without using high-level frameworks.  
-  Achieved concurrent client handling and static content serving with minimal external dependencies.
-
----
-
 ### Machine Learning (Python)
 
 - **Machine Learning Coursework** (Inha Univ. EEC3400)
@@ -39,6 +29,15 @@ My work mainly focuses on **memory management**, **parallel processing**, and **
 - **Dive into Deep Learning (D2L.ai) Study**  
   Hands-on deep learning experiments using PyTorch and theoretical study.  
   Focus: Understanding from low-level tensor operations to network optimization.
+
+---
+
+### Network and Systems Programming (C++)
+
+- **Webserv**  
+  Implementation of a lightweight HTTP/1.1 web server in C++.  
+  Focus: Low-level socket programming, select-based I/O multiplexing, manual HTTP request parsing and response generation without using high-level frameworks.  
+  Achieved concurrent client handling and static content serving with minimal external dependencies.
 
 ---
 
