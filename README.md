@@ -17,12 +17,12 @@ My work mainly focuses on **memory management**, **parallel processing**, and **
 ---
 ### Machine Learning (Python)
 
-- **Machine Learning Coursework** (Inha Univ. EEC3400)
+- **Machine Learning Coursework (Inha Univ. EEC3400)**  
   Covered topics including convex optimization, kernel methods (SVM, Kernel PCA), unsupervised learning (Spectral Clustering, GMM, EM),
   and theoretical foundations (MLE, MAP, Lagrangian duality).
   Implemented and analyzed models in Python using NumPy and scikit-learn.
 
-- **Deep Learning Coursework (PyTorch)** (Inha Univ. ECE4456)
+- **Deep Learning Coursework (Inha Univ. ECE4456)**  
   Neural network architecture design and training for image classification.  
   Focus: regularization techniques, performance evaluation.
 
