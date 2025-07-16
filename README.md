@@ -27,7 +27,12 @@ My work mainly focuses on **memory management**, **parallel processing**, and **
 
 ### Machine Learning (Python)
 
-- **Deep Learning Coursework (PyTorch)**  
+- **Machine Learning Coursework** (Inha Univ. EEC3400)
+  Covered topics including convex optimization, kernel methods (SVM, Kernel PCA), unsupervised learning (Spectral Clustering, GMM, EM),
+  and theoretical foundations (MLE, MAP, Lagrangian duality).
+  Implemented and analyzed models in Python using NumPy and scikit-learn.
+
+- **Deep Learning Coursework (PyTorch)** (Inha Univ. ECE4456)
   Neural network architecture design and training for image classification.  
   Focus: regularization techniques, performance evaluation.
 
@@ -40,26 +45,6 @@ My work mainly focuses on **memory management**, **parallel processing**, and **
 
 ### System Programming (C language)
 
-- **libft**  
-  Re-implementation of standard C library functions from scratch.  
-  Focus: Robust string manipulation, memory operations, no external dependencies.
-
-- **get_next_line**  
-  Implementation of buffered line-by-line file reading.  
-  Focus: Dynamic memory management, buffer reallocation, multi-file descriptor handling.
-
-- **ft_printf**  
-  Custom `printf` function with full format specifier support.  
-  Focus: Manual parsing, variadic argument handling using `va_list`.
-
-- **push_swap**  
-  Sorting algorithms using only a limited set of stack operations.  
-  Focus: Algorithmic optimization for minimal operation count, efficient data structures.
-
-- **pipex**  
-  Recreation of Unix pipe functionality using process forking and file descriptor manipulation.  
-  Focus: Process control (`fork`, `execve`), pipe management, I/O redirection.
-
 - **minishell**  
   A minimal Unix shell built in C.  
   Focus: Lexer/parser construction, abstract syntax tree (AST) execution, built-in command support, signal handling.
@@ -71,6 +56,8 @@ My work mainly focuses on **memory management**, **parallel processing**, and **
 - **fdf**  
   3D wireframe visualization of terrain data using 2D projection techniques.  
   Focus: 3D to 2D transformation, matrix operations, Bresenham’s line algorithm.
+
+etc...
 
 ---
 
